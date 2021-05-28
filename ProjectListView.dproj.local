@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/16 08:27:46.000.479,=C:\Users\Montania\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/28 13:02:35.355,=C:\Users\Montania\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/28 13:03:49.207,C:\Users\Montania\Documents\Embarcadero\Studio\Projects\ProjectListWiew\UfrmPrincipal.pas=C:\Users\Montania\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/28 13:03:49.207,C:\Users\Montania\Documents\Embarcadero\Studio\Projects\ProjectListWiew\UfrmPrincipal.dfm=C:\Users\Montania\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/05/28 13:04:06.834,C:\Users\Montania\Documents\Embarcadero\Studio\Projects\ProjectListWiew\ProjectListView.dproj=C:\Users\Montania\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/05/28 13:50:05.922,=C:\Users\Montania\Documents\Embarcadero\Studio\Projects\ProjectListWiew\Unit1.pas</Transaction>
+    <Transaction>2021/05/28 13:50:30.324,C:\Users\Montania\Documents\Embarcadero\Studio\Projects\ProjectListWiew\UCliente.pas=C:\Users\Montania\Documents\Embarcadero\Studio\Projects\ProjectListWiew\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
